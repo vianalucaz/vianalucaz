@@ -1,18 +1,18 @@
 ## 👋 About Me
 
-I am an Economist and Master’s candidate in Economics at PIMES/UFPE, with a strong focus on applied macroeconomics, econometrics, public finance, and machine learning.
+I am an Economist and Master’s candidate in Economics at PIMES/UFPE, with a focus on applied macroeconomics and interested in econometrics, public finance, and machine learning.
 
 Before transitioning fully into academia, I worked in the Brazilian Navy and in the Brazilian Ministry of Defense, including a position in financial administration and budget execution. My responsibilities involved:
 
-- Public budget management and financial execution  
-- Statistical monitoring of operational aviation data 
-- Data organization and reporting to support decision-making  
+- To analyze and execute public budgets.
+- Statistical monitoring of operational aviation data
+- Data organization and reporting to support decision-making
 
 During my Master's program, I have developed training in:
 
-- Macroeconomic theory and applied macroeconomics  
-- Econometrics 
-- Quantitative methods for economic research  
+- Macroeconomic theory and applied macroeconomics
+- Econometrics
+- Quantitative methods for economic research
 - Empirical research using Brazilian micro and macro datasets
 ---
 
